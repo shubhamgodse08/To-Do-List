@@ -1,1 +1,5 @@
 # To-Do-List
+The To-Do List project is a simple and efficient web application built using HTML, CSS, and Javascript. This project aims to help users organize and manage their daily tasks and responsibilities in an intuitive and user-friendly interface.
+Upon loading the web page, users are greeted with a clean and minimalist design that allows them to focus on their tasks without distractions. The interface consists of a text input box where users can add new tasks and a dynamic list that displays all the tasks they have added. 
+When users enter a task into the input box and press the "Add" button, Javascript comes into action, capturing the task's content and appending it to the list. Each task item is accompanied by a checkbox, enabling users to mark tasks as completed when they are done. A delete button is also provided to remove tasks from the list when they are no longer needed. 
+The application uses local storage to persist the tasks, so users can close the page and return later without losing their to-do list. The use of local storage ensures that the data is stored on the user's device, maintaining privacy and reducing server-side overhead.
